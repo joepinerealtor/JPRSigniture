@@ -1,36 +1,38 @@
 # JPRSigniture
 
-Public image hosting and HTML starter files for Gmail email signatures.
+Gmail-ready HTML email signature and hosted image assets for Joe Pine.
 
-## Templates
+## Final Signature
 
-- `signature.html` - close recreation of the personal signature layout with headshot, contact details, social icons, and meeting button.
-- `signature-hybrid.html` - combines the personal signature with Keller Williams Leading Edge branding, a red vertical divider, and a bottom tagline area inspired by the work signature.
-
-## Recommended setup
-
-1. Upload signature images into the `assets/` folder.
-2. Go to **Settings > Pages** in this repository.
-3. Under **Build and deployment**, choose:
-   - Source: **Deploy from a branch**
-   - Branch: **main**
-   - Folder: **/ (root)**
-4. Save.
-5. After GitHub Pages publishes, image URLs will look like:
-
-```text
-https://joepinerealtor.github.io/JPRSigniture/assets/headshot.png
-```
-
-Template URLs will look like:
+Open this page after GitHub Pages publishes:
 
 ```text
 https://joepinerealtor.github.io/JPRSigniture/signature.html
-https://joepinerealtor.github.io/JPRSigniture/signature-hybrid.html
 ```
 
-## Gmail notes
+The signature uses hosted assets from:
 
-Keep important contact details as real text instead of image-only content. Some email clients block images by default, so text ensures the signature still works when images do not load.
+```text
+https://joepinerealtor.github.io/JPRSigniture/assets/
+```
 
-For best Gmail compatibility, copy the rendered signature from the browser page and paste it into Gmail's signature editor.
+## Gmail Installation
+
+1. Open `https://joepinerealtor.github.io/JPRSigniture/signature.html`.
+2. Select the rendered signature on the page.
+3. Copy it.
+4. Open Gmail.
+5. Go to **Settings > See all settings > General > Signature**.
+6. Create a new signature or edit the existing one.
+7. Paste the copied signature into the Gmail signature editor.
+8. Under **Signature defaults**, choose the signature for new emails and replies/forwards.
+9. Scroll down and click **Save Changes**.
+10. Send a test email and confirm the images and links work.
+
+## Current Links
+
+- Schedule a Meeting: `https://calendly.com/joepinerealtor/appointment`
+- Facebook: `https://www.facebook.com/jepine3`
+- Instagram: `https://www.instagram.com/joepine_realtor/`
+- Reviews: `https://Reviews.joepine.com`
+- Website: `https://www.JoePine.com`
