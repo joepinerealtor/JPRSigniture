@@ -1,6 +1,11 @@
 # JPRSigniture
 
-Public image hosting and HTML starter files for a Gmail email signature.
+Public image hosting and HTML starter files for Gmail email signatures.
+
+## Templates
+
+- `signature.html` - close recreation of the personal signature layout with headshot, contact details, social icons, and meeting button.
+- `signature-hybrid.html` - combines the personal signature with Keller Williams Leading Edge branding, a red vertical divider, and a bottom tagline area inspired by the work signature.
 
 ## Recommended setup
 
@@ -14,13 +19,18 @@ Public image hosting and HTML starter files for a Gmail email signature.
 5. After GitHub Pages publishes, image URLs will look like:
 
 ```text
-https://joepinerealtor.github.io/JPRSigniture/assets/logo.png
+https://joepinerealtor.github.io/JPRSigniture/assets/headshot.png
 ```
 
-Use those public image URLs in Gmail's signature editor.
+Template URLs will look like:
+
+```text
+https://joepinerealtor.github.io/JPRSigniture/signature.html
+https://joepinerealtor.github.io/JPRSigniture/signature-hybrid.html
+```
 
 ## Gmail notes
 
 Keep important contact details as real text instead of image-only content. Some email clients block images by default, so text ensures the signature still works when images do not load.
 
-A starter HTML signature is in `signature.html`.
+For best Gmail compatibility, copy the rendered signature from the browser page and paste it into Gmail's signature editor.
