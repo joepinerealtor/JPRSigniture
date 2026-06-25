@@ -4,21 +4,21 @@ Gmail-ready HTML email signature and hosted image assets for Joe Pine.
 
 ## Final Signature
 
-Open this page after GitHub Pages publishes:
+Copy from this rendered page:
 
 ```text
-https://joepinerealtor.github.io/JPRSigniture/signature.html
+https://raw.githack.com/joepinerealtor/JPRSigniture/main/signature.html
 ```
 
-The signature uses hosted assets from:
+The signature uses public image assets from:
 
 ```text
-https://joepinerealtor.github.io/JPRSigniture/assets/
+https://raw.githubusercontent.com/joepinerealtor/JPRSigniture/main/assets/
 ```
 
 ## Gmail Installation
 
-1. Open `https://joepinerealtor.github.io/JPRSigniture/signature.html`.
+1. Open `https://raw.githack.com/joepinerealtor/JPRSigniture/main/signature.html`.
 2. Select the rendered signature on the page.
 3. Copy it.
 4. Open Gmail.
